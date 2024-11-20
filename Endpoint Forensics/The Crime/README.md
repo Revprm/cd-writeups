@@ -2,6 +2,8 @@
 
 **Category**: Endpoint Forensics
 
+**Link to The Lab**: [The Crime Lab](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/)
+
 ## Scenario
 > We're currently in the midst of a murder investigation, and we've obtained the victim's phone as a key piece of evidence. After conducting interviews with witnesses and those in the victim's inner circle, your objective is to meticulously analyze the information we've gathered and diligently trace the evidence to piece together the sequence of events leading up to the incident.
 >
